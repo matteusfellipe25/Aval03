@@ -1,0 +1,15 @@
+C:\Users\mateu\OneDrive\Área de Trabalho\AVAL03\bin\Debug\net7.0\AVAL03.exe
+C:\Users\mateu\OneDrive\Área de Trabalho\AVAL03\bin\Debug\net7.0\AVAL03.deps.json
+C:\Users\mateu\OneDrive\Área de Trabalho\AVAL03\bin\Debug\net7.0\AVAL03.runtimeconfig.json
+C:\Users\mateu\OneDrive\Área de Trabalho\AVAL03\bin\Debug\net7.0\AVAL03.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\AVAL03\bin\Debug\net7.0\AVAL03.pdb
+C:\Users\mateu\OneDrive\Área de Trabalho\AVAL03\obj\Debug\net7.0\AVAL03.csproj.AssemblyReference.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\AVAL03\obj\Debug\net7.0\AVAL03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\OneDrive\Área de Trabalho\AVAL03\obj\Debug\net7.0\AVAL03.AssemblyInfoInputs.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\AVAL03\obj\Debug\net7.0\AVAL03.AssemblyInfo.cs
+C:\Users\mateu\OneDrive\Área de Trabalho\AVAL03\obj\Debug\net7.0\AVAL03.csproj.CoreCompileInputs.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\AVAL03\obj\Debug\net7.0\AVAL03.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\AVAL03\obj\Debug\net7.0\refint\AVAL03.dll
+C:\Users\mateu\OneDrive\Área de Trabalho\AVAL03\obj\Debug\net7.0\AVAL03.pdb
+C:\Users\mateu\OneDrive\Área de Trabalho\AVAL03\obj\Debug\net7.0\AVAL03.genruntimeconfig.cache
+C:\Users\mateu\OneDrive\Área de Trabalho\AVAL03\obj\Debug\net7.0\ref\AVAL03.dll
